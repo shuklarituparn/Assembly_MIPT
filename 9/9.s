@@ -1,1 +1,1 @@
-MUL x3, x1 x2
+MUL x3, x1, x2
